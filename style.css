@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+
+}
+
+#pss-gen{
+    margin: 80px;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(216, 15, 15);
+    background: rgb(7, 6, 1);
+}
+
+#pass{
+   margin: 4px 0px 13px 30rem;
+   padding: 20px 1px 20px 18px;
+   width: 20rem;
+   border-radius: 20px;
+   border-color: gold;
+   border-width: 10px;
+   border-style: dashed;
+   border-top-left-radius: 4px;
+   
+}
+@media screen and (max-width: 600px) {
+
+}
+
+
+img{
+    position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 70%;             
+  right: 36%;           
+  transform: translateY(-50%);
+  cursor: pointer;
+  user-select: none;
+}
+
